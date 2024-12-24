@@ -1,0 +1,1 @@
+This repository contains a Tcl procedure that attempts to count the number of characters in a string.  However, the implementation is inefficient and does not handle Unicode characters correctly.  The `bug.tcl` file demonstrates the flawed implementation. The solution, provided in `bugSolution.tcl`, addresses these issues.
